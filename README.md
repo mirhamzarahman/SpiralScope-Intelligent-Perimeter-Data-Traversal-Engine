@@ -220,29 +220,6 @@ SpiralScope/
     └── algorithm.md
 ```
 
----
-
-# ▶️ How to Run
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/SpiralScope.git
-```
-
-Move into the project
-
-```bash
-cd SpiralScope
-```
-
-Run
-
-```bash
-node src/SpiralScope.js
-```
-
----
 
 # 📚 Learning Outcomes
 
